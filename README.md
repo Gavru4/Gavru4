@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-### Hi there 👋
-
 - 🇺🇦 Hi, I’m Roman                                                                                                                                                     
 - 👀 I’m interested in getting a Frontend Developer job 
 - 🌱 I’m currently learning React Native                                                                                                           
