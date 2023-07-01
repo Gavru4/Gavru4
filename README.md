@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🇺🇦 Hi, I’m Roman                                                                                                                                                     
-- 👀 I’m interested in getting a Frontend Developer job                                                                                                            
 - 🔥 I’m capable and hardworking                                                                                                                                       
 - 📫 How to reach me out gavru4r@gmail.com
 
